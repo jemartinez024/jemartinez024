@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about productivity
 - 💞️ I’m looking to collaborate on a project with flutter
 - 📫 How to reach me: jemartinezflo@gmail.com
-- 😄 Pronouns: Jair
+- 😄 Pronouns: El
 - ⚡ Fun fact: cycling
 
 <!---
