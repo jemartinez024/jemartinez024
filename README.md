@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jemartinez024
-- 👀 I’m interested in Flutter Open Source Project
+- 👀 I’m interested in Flutter Open Source Project and Python Project
 - 🌱 I’m currently learning about productivity
-- 💞️ I’m looking to collaborate on a project with flutter
+- 💞️ I’m looking to collaborate on a project with flutter y Python
 - 📫 How to reach me: jemartinezflo@gmail.com
 - ⚡ Fun fact: cycling
 
